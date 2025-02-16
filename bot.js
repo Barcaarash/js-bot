@@ -20,15 +20,15 @@ const cron = require('node-cron');
  * CONFIGURATION
  ***********************************************************************/
 const CONFIG = {
-  BOT_TOKEN: 'YOUR_TELEGRAM_BOT_TOKEN_HERE', // from BotFather
+  BOT_TOKEN: '7895867616:AAFhf4T1XBRNfhj_w97Q8WNgetFxb6GcIh4', // from BotFather
   MAIN_ADMIN_ID: 123456789,                  // your Telegram user ID (main admin)
   DEFAULT_WELCOME: 'Welcome to our Telegram Bot!',
   // MySQL credentials
   DB: {
     host: 'localhost',
-    user: 'root',
-    password: 'password',
-    database: 'telegram_bot',
+    user: 'Godbe',
+    password: 'Hrahfhrahf',
+    database: 'jojo',
     port: 3306,
   },
   // Rate limiting: 300 messages/min => 5 messages/sec
